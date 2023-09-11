@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = '/Users/a404/Documents/GitHub/Python-Course/my-env'
+    let virtual_env = '/home/s404/Python-Course/my-env'
     let bin = 'bin'
 
     let is_windows = ($nu.os-info.family) == 'windows'
