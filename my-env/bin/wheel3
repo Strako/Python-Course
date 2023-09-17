@@ -1,4 +1,4 @@
-#!/home/s404/Python-Course/my-env/bin/python
+#!/Users/a404/Documents/GitHub/Python-Course/my-env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
